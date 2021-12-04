@@ -9,6 +9,6 @@ public class Summer extends Jacket{
     }
 
     public void sayHi(){
-        System.out.println("Hi");
+        System.out.println("HiI");
     }
 }
